@@ -1,0 +1,26 @@
+{
+  "name": "biojs-io-vcf",
+  "version": "1.0.0",
+  "description": "VCF parser for BioJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saketkc/biojs-io-vcf.git"
+  },
+  "keywords": [
+    "biojs",
+    "vcf",
+    "parser",
+    "vcf-parser",
+    "biojs-io"
+  ],
+  "author": "Saket Choudhary <saketkc@gmail.com> (http://www-scf.usc.edu/~skchoudh/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saketkc/biojs-io-vcf/issues"
+  },
+  "homepage": "https://github.com/saketkc/biojs-io-vcf"
+}
