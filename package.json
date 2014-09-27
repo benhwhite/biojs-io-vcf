@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/saketkc/biojs-io-vcf/issues"
   },
-  "homepage": "https://github.com/saketkc/biojs-io-vcf"
+  "homepage": "https://github.com/saketkc/biojs-io-vcf",
+  "devDependencies": {
+    "mocha": "^1.21.4"
+  }
 }
